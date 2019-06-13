@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Taxi Degla Driver</string>
+    <string name="welcomeSplash">مرحبا بك فى تكسي دجله</string>
+    <string name="underSplash">نسعى لشراكة قوية معك. لتمكينك من جنى المزيد و المزيد من الارباح </string>
+    <string name="forgetPass">نسيت الرمز</string>
+    <string name="profileHeader">الملف الشخصي</string>
+    <string name="firstName">First Name</string>
+    <string name="secondName">Second Name</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="updateDriverData">طلب تغيير بيانات</string>
+    <string name="cont">COTINUE WITH :</string>
+    <string name="login">login</string>
+    <string name="signup">sign up</string>
+    <string name="title_activity_log_or_sign">logOrSignActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="contin">الاستمرار</string>
+    <string name="usePhone">USE PHONE NUMBER</string>
+    <string name="enterPhone">Enter your Phone Number:</string>
+    <string name="nextStep">Next Step</string>
+    <string name="next">Next</string>
+    <string name="confirmCode">Enter your Confirmation Number:</string>
+    <string name="apply">APPLY</string>
+    <string name="welcome">WELCOME</string>
+    <string name="thankyou">Thank you for registering with Taxi Degla</string>
+    <string name="profile">profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_trips">tripsActivity</string>
+</resources>
